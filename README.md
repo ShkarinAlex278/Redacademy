@@ -6,4 +6,7 @@ This project includes two files:
 + RedAcademy.html 
 + stylesheet.css 
 
-And one folder with images: +My pictures.
+And one folder with images: 
++ My pictures.
+
+
